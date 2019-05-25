@@ -1,6 +1,6 @@
 # Introduction to Infographic Design
 Author: Emma L. Strand  
-Last Updated: 20190501
+Last Updated: 20190525
 
 See finished products [here](https://emmastrand.weebly.com/infographics.html).
 
